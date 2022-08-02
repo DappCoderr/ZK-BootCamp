@@ -1,2 +1,2 @@
 # ZK-BootCamp
- This repo holds all the material and home work related to zk-bootcamp organized by encode club. 
+ This repo holds all the Lesson brief and Exercise & Solution related to zk-bootcamp organized by encode club. 
