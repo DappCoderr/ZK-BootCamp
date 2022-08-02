@@ -8,7 +8,7 @@ Cario Language is used to write smart contract on StarkNet.
 ```
 
 ## Cairo Setting up the environment
-'''
+```
 Please follow this below link 👇
 https://www.cairo-lang.org/docs/quickstart.html
-'''
+```
