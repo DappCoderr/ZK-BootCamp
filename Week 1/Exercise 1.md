@@ -9,9 +9,10 @@ What problems are there when using zkps in real world situations ?
 What is
 a) 4 + 4
 b) 3 x 5
-c) what is the inverse of 3 ?
+c) what is the inverse of 3?
+
 2. For S = {0,1,2,3,4,5,6}
 Can we consider 'S' and the operation '+' to be a group ?
-3. What is
--13 mod 5 ?
+
+3. What is -13 mod 5 ?
 ```
