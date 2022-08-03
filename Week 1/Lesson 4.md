@@ -1,1 +1,0 @@
-# Learning from Lesson 4 - Privacy Protecting Cryptocurrencies

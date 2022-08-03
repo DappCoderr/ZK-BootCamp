@@ -12,3 +12,8 @@ Cario Language is used to write smart contract on StarkNet.
 Please follow this below link 👇
 https://www.cairo-lang.org/docs/quickstart.html
 ```
+
+## STARK-Ware Notion Link
+```
+https://starkware.notion.site/Tutorials-33fe313c0fc94debab3c7721bf09ce4a
+```
